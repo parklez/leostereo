@@ -1,0 +1,14 @@
+{
+    "pack": {
+        "pack_format": 88,
+        "description": "Made because I'm lazy.",
+        "min_format": [
+            88,
+            0
+        ],
+        "max_format": [
+            88,
+            0
+        ]
+    }
+}
